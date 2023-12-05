@@ -1,0 +1,13 @@
+{
+  "asset_type": "Ticker",
+  "options" : {
+    "S&P500": "^GSPC",
+    "NASDAQ": "^IXIC",
+    "NASDAQ 100": "^NDX",
+    "MSCI World": "^WORLD",
+    "FTSE 100": "^FTSE",
+    "STOXX Europe 600": "^STOXX",
+    "Microsoft": "MSFT",
+    "Nvidia": "NVDA"
+  }
+}

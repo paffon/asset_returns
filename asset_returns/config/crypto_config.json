@@ -1,0 +1,18 @@
+{
+  "asset_type": "Crypto Currency",
+  "options" : {
+    "Bitcoin": "bitcoin",
+    "Ethereum": "ethereum",
+    "Ripple": "ripple",
+    "Litecoin": "litecoin",
+    "Cardano": "cardano",
+    "Tether": "tether",
+    "Binance Coin": "binancecoin",
+    "Solana": "solana",
+    "Dogecoin": "dogecoin",
+    "Chainlink": "chainlink",
+    "Polygon": "polygon",
+    "Uniswap": "uniswap",
+    "Optimism": "optimism"
+  }
+}
